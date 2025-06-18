@@ -1,0 +1,684 @@
+
+=== Match played ===
+Top 3 players:
+         Player  Match played
+     Alex Iwobi            34
+     Bernd Leno            34
+Bruno Guimarães            34
+Bottom 3 players:
+       Player  Match played
+ Ayden Heaven             2
+Billy Gilmour             2
+   Danny Ward             2
+
+=== Starts ===
+Top 3 players:
+         Player  Starts
+     Bernd Leno      34
+Bruno Guimarães      34
+     David Raya      34
+Bottom 3 players:
+       Player  Starts
+Ali Al Hamadi       0
+       Antony       0
+ Ben Chilwell       0
+
+=== Minutes ===
+Top 3 players:
+        Player  Minutes
+    Bernd Leno     3060
+    David Raya     3060
+Dean Henderson     3060
+Bottom 3 players:
+              Player  Minutes
+       Harrison Reed       93
+        Ayden Heaven       95
+Jahmai Simpson-Pusey       96
+
+=== Goals ===
+Top 3 players:
+        Player  Goals
+ Mohamed Salah     28
+Alexander Isak     22
+Erling Haaland     21
+Bottom 3 players:
+            Player  Goals
+   Aaron Cresswell      0
+    Aaron Ramsdale      0
+Abdukodir Khusanov      0
+
+=== Assists ===
+Top 3 players:
+          Player  Assists
+   Mohamed Salah       18
+    Jacob Murphy       11
+Antonee Robinson       10
+Bottom 3 players:
+            Player  Assists
+   Aaron Cresswell        0
+    Aaron Ramsdale        0
+Abdukodir Khusanov        0
+
+=== Yellow cards ===
+Top 3 players:
+     Player  Yellow cards
+ Saša Lukić            12
+Will Hughes            11
+   Dan Burn            10
+Bottom 3 players:
+               Player  Yellow cards
+Abdul Fatawu Issahaku             0
+         Adam Webster             0
+      Albert Grønbaek             0
+
+=== Red cards ===
+Top 3 players:
+            Player  Red cards
+   Bruno Fernandes          2
+     Jack Stephens          2
+Myles Lewis-Skelly          2
+Bottom 3 players:
+           Player  Red cards
+  Aaron Cresswell          0
+   Aaron Ramsdale          0
+Aaron Wan-Bissaka          0
+
+=== xG ===
+Top 3 players:
+        Player   xG
+ Mohamed Salah 23.9
+Erling Haaland 20.8
+Alexander Isak 19.0
+Bottom 3 players:
+            Player  xG
+    Aaron Ramsdale 0.0
+Abdukodir Khusanov 0.0
+      Adam Webster 0.0
+
+=== xAG ===
+Top 3 players:
+       Player  xAG
+Mohamed Salah 12.8
+  Cole Palmer  9.3
+Son Heung-min  8.2
+Bottom 3 players:
+         Player  xAG
+ Aaron Ramsdale  0.0
+Albert Grønbaek  0.0
+  Alex McCarthy  0.0
+
+=== Possession_ProgC ===
+Top 3 players:
+       Player  Possession_ProgC
+  Jeremy Doku               176
+Mohamed Salah               142
+ Kaoru Mitoma               138
+Bottom 3 players:
+        Player  Possession_ProgC
+Aaron Ramsdale                 0
+ Alex McCarthy                 0
+   Alex Palmer                 0
+
+=== PrgPasses ===
+Top 3 players:
+         Player  PrgPasses
+Bruno Fernandes        281
+Bruno Guimarães        241
+ Joško Gvardiol        240
+Bottom 3 players:
+        Player  PrgPasses
+Aaron Ramsdale          0
+ Alex McCarthy          0
+       Alisson          0
+
+=== PrgR ===
+Top 3 players:
+       Player  PrgR
+Mohamed Salah   425
+ Bryan Mbeumo   300
+ Kaoru Mitoma   277
+Bottom 3 players:
+        Player  PrgR
+Aaron Ramsdale     0
+ Alex McCarthy     0
+   Alex Palmer     0
+
+=== Goals per 90 ===
+Top 3 players:
+       Player  Goals per 90
+Donyell Malen          0.99
+  Jáder Durán          0.99
+ James Mcatee          0.91
+Bottom 3 players:
+            Player  Goals per 90
+   Aaron Cresswell           0.0
+    Aaron Ramsdale           0.0
+Abdukodir Khusanov           0.0
+
+=== Assists per 90 ===
+Top 3 players:
+        Player  Assists per 90
+Tyrique George            0.87
+    Danny Ings            0.63
+   Bukayo Saka            0.62
+Bottom 3 players:
+            Player  Assists per 90
+   Aaron Cresswell             0.0
+    Aaron Ramsdale             0.0
+Abdukodir Khusanov             0.0
+
+=== xG per 90 ===
+Top 3 players:
+       Player  xG per 90
+ James Mcatee       0.85
+Marco Asensio       0.78
+  Richarlison       0.78
+Bottom 3 players:
+            Player  xG per 90
+    Aaron Ramsdale        0.0
+Abdukodir Khusanov        0.0
+      Adam Webster        0.0
+
+=== xAG per 90 ===
+Top 3 players:
+         Player  xAG per 90
+ Tyrique George        0.63
+Mykhailo Mudryk        0.58
+Luis Sinisterra        0.54
+Bottom 3 players:
+        Player  xAG per 90
+Aaron Ramsdale         0.0
+ Alex McCarthy         0.0
+   Alex Palmer         0.0
+
+=== SoT/90 ===
+Top 3 players:
+         Player  SoT/90
+ Carlos Alcaraz    9.00
+  Donyell Malen    2.64
+Luis Sinisterra    2.29
+Bottom 3 players:
+            Player  SoT/90
+   Aaron Cresswell     0.0
+    Aaron Ramsdale     0.0
+Abdukodir Khusanov     0.0
+
+=== Cmp ===
+Top 3 players:
+         Player  Cmp
+Virgil van Dijk 2446
+ William Saliba 2273
+ Joško Gvardiol 2240
+Bottom 3 players:
+       Player  Cmp
+ Reiss Nelson    0
+  Jordan Ayew    8
+William Osula   11
+
+=== TotDist ===
+Top 3 players:
+         Player  TotDist
+Virgil van Dijk    44780
+   Levi Colwill    39487
+ William Saliba    39201
+Bottom 3 players:
+         Player  TotDist
+   Reiss Nelson        0
+  William Osula      126
+Albert Grønbaek      135
+
+=== KP ===
+Top 3 players:
+         Player  KP
+Bruno Fernandes  84
+  Mohamed Salah  80
+    Cole Palmer  78
+Bottom 3 players:
+         Player  KP
+ Aaron Ramsdale   0
+  Alex McCarthy   0
+Alphonse Areola   0
+
+=== 1/3 ===
+Top 3 players:
+         Player  1/3
+Virgil van Dijk  265
+ Joško Gvardiol  225
+Youri Tielemans  221
+Bottom 3 players:
+          Player  1/3
+   Ali Al Hamadi    0
+Chiedozie Ogbene    0
+   Evan Ferguson    0
+
+=== PPA ===
+Top 3 players:
+         Player  PPA
+  Mohamed Salah   82
+Martin Ødegaard   78
+     Alex Iwobi   77
+Bottom 3 players:
+            Player  PPA
+Abdukodir Khusanov    0
+   Albert Grønbaek    0
+     Alex McCarthy    0
+
+=== CrsPA ===
+Top 3 players:
+          Player  CrsPA
+Antonee Robinson     26
+     Pedro Porro     26
+    Milos Kerkez     22
+Bottom 3 players:
+            Player  CrsPA
+    Aaron Ramsdale      0
+Abdoulaye Doucouré      0
+Abdukodir Khusanov      0
+
+=== PrgPasses.1 ===
+Top 3 players:
+         Player  PrgPasses.1
+Bruno Fernandes          281
+Bruno Guimarães          241
+ Joško Gvardiol          240
+Bottom 3 players:
+        Player  PrgPasses.1
+Aaron Ramsdale            0
+ Alex McCarthy            0
+       Alisson            0
+
+=== SCA ===
+Top 3 players:
+         Player  SCA
+    Cole Palmer  180
+Bruno Fernandes  169
+  Mohamed Salah  153
+Bottom 3 players:
+           Player  SCA
+    Alex McCarthy    0
+          Ben Mee    0
+Benoît Badiashile    0
+
+=== SCA90 ===
+Top 3 players:
+        Player  SCA90
+Carlos Alcaraz   9.00
+Philip Billing   7.83
+Luis Guilherme   6.52
+Bottom 3 players:
+           Player  SCA90
+    Alex McCarthy    0.0
+          Ben Mee    0.0
+Benoît Badiashile    0.0
+
+=== GCA ===
+Top 3 players:
+          Player  GCA
+   Mohamed Salah   26
+     Bukayo Saka   22
+Mikkel Damsgaard   21
+Bottom 3 players:
+            Player  GCA
+   Aaron Cresswell    0
+    Aaron Ramsdale    0
+Abdukodir Khusanov    0
+
+=== GCA90 ===
+Top 3 players:
+     Player  GCA90
+Bukayo Saka   1.36
+Solly March   1.08
+Mikey Moore   0.97
+Bottom 3 players:
+            Player  GCA90
+   Aaron Cresswell    0.0
+    Aaron Ramsdale    0.0
+Abdukodir Khusanov    0.0
+
+=== Tkl ===
+Top 3 players:
+            Player  Tkl
+Idrissa Gana Gueye  123
+      Daniel Muñoz  109
+ Noussair Mazraoui  102
+Bottom 3 players:
+        Player  Tkl
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+=== TklW ===
+Top 3 players:
+            Player  TklW
+Idrissa Gana Gueye    74
+      Daniel Muñoz    70
+    Moisés Caicedo    63
+Bottom 3 players:
+        Player  TklW
+Aaron Ramsdale     0
+ Alex McCarthy     0
+   Alex Palmer     0
+
+=== Att ===
+Top 3 players:
+                   Player  Att
+       Idrissa Gana Gueye   57
+            Neco Williams   54
+Victor Bernth Kristiansen   54
+Bottom 3 players:
+        Player  Att
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+=== Blocks ===
+Top 3 players:
+         Player  Blocks
+ Nathan Collins      68
+        Murillo      66
+Tyrick Mitchell      62
+Bottom 3 players:
+        Player  Blocks
+Aaron Ramsdale       0
+ Alex McCarthy       0
+   Alex Palmer       0
+
+=== Block shot ===
+Top 3 players:
+        Player  Block shot
+Nathan Collins          48
+   Dara O'Shea          47
+       Murillo          43
+Bottom 3 players:
+               Player  Block shot
+       Aaron Ramsdale           0
+Abdul Fatawu Issahaku           0
+         Adama Traoré           0
+
+=== Pass ===
+Top 3 players:
+             Player  Pass
+Alexis Mac Allister    54
+    Antoine Semenyo    51
+    Tyrick Mitchell    50
+Bottom 3 players:
+         Player  Pass
+ Aaron Ramsdale     0
+Albert Grønbaek     0
+  Alex McCarthy     0
+
+=== Int ===
+Top 3 players:
+           Player  Int
+Aaron Wan-Bissaka   59
+ Ryan Gravenberch   57
+ Antonee Robinson   56
+Bottom 3 players:
+         Player  Int
+Albert Grønbaek    0
+  Alex McCarthy    0
+    Alex Palmer    0
+
+=== Touches ===
+Top 3 players:
+         Player  Touches
+Virgil van Dijk     3010
+ Joško Gvardiol     2808
+   Levi Colwill     2669
+Bottom 3 players:
+        Player  Touches
+  Reiss Nelson        2
+   Jordan Ayew       12
+Carlos Alcaraz       17
+
+=== Def Pen ===
+Top 3 players:
+      Player  Def Pen
+Mark Flekken     1261
+  Bernd Leno     1066
+ André Onana     1005
+Bottom 3 players:
+        Player  Def Pen
+Carlos Alcaraz        0
+   Emi Buendía        0
+   Jordan Ayew        0
+
+=== Def 3rd ===
+Top 3 players:
+         Player  Def 3rd
+   Mark Flekken     1569
+Jordan Pickford     1451
+     Bernd Leno     1318
+Bottom 3 players:
+        Player  Def 3rd
+   Jordan Ayew        0
+Carlos Alcaraz        1
+  Reiss Nelson        1
+
+=== Mid 3rd ===
+Top 3 players:
+         Player  Mid 3rd
+Virgil van Dijk     1664
+ William Saliba     1495
+ Moisés Caicedo     1442
+Bottom 3 players:
+        Player  Mid 3rd
+ Alex McCarthy        0
+    Danny Ward        0
+Fraser Forster        0
+
+=== Att 3rd ===
+Top 3 players:
+         Player  Att 3rd
+  Mohamed Salah      993
+Bruno Fernandes      888
+   Bryan Mbeumo      851
+Bottom 3 players:
+        Player  Att 3rd
+Aaron Ramsdale        0
+ Alex McCarthy        0
+   Alex Palmer        0
+
+=== Att Pen ===
+Top 3 players:
+         Player  Att Pen
+  Mohamed Salah      320
+Antoine Semenyo      176
+ Alexander Isak      175
+Bottom 3 players:
+        Player  Att Pen
+Aaron Ramsdale        0
+ Alex McCarthy        0
+   Alex Palmer        0
+
+=== Possession_Att ===
+Top 3 players:
+        Player  Possession_Att
+Mohammed Kudus             188
+   Jeremy Doku             175
+ Morgan Rogers             145
+Bottom 3 players:
+        Player  Possession_Att
+Aaron Ramsdale               0
+ Alex McCarthy               0
+   Alex Palmer               0
+
+=== Carries ===
+Top 3 players:
+         Player  Carries
+ Joško Gvardiol     1826
+Virgil van Dijk     1682
+ William Saliba     1642
+Bottom 3 players:
+        Player  Carries
+  Reiss Nelson        1
+   Jordan Ayew        6
+Carlos Alcaraz       12
+
+=== Possession_ProgC.1 ===
+Top 3 players:
+       Player  Possession_ProgC.1
+  Jeremy Doku                 176
+Mohamed Salah                 142
+ Kaoru Mitoma                 138
+Bottom 3 players:
+        Player  Possession_ProgC.1
+Aaron Ramsdale                   0
+ Alex McCarthy                   0
+   Alex Palmer                   0
+
+=== Possession_1/3 ===
+Top 3 players:
+        Player  Possession_1/3
+    Alex Iwobi              99
+Joško Gvardiol              91
+ Matheus Cunha              88
+Bottom 3 players:
+         Player  Possession_1/3
+ Aaron Ramsdale               0
+Albert Grønbaek               0
+  Alex McCarthy               0
+
+=== Possession_CPA ===
+Top 3 players:
+       Player  Possession_CPA
+Mohamed Salah             113
+  Jeremy Doku              80
+ Noni Madueke              80
+Bottom 3 players:
+            Player  Possession_CPA
+   Aaron Cresswell               0
+    Aaron Ramsdale               0
+Abdukodir Khusanov               0
+
+=== Possession_Mis ===
+Top 3 players:
+       Player  Possession_Mis
+Mohamed Salah             105
+Morgan Rogers             102
+   Liam Delap              96
+Bottom 3 players:
+         Player  Possession_Mis
+  Alex McCarthy               0
+Alphonse Areola               0
+ Antonín Kinský               0
+
+=== Possession_Dis ===
+Top 3 players:
+          Player  Possession_Dis
+  Mohammed Kudus              88
+ Bruno Guimarães              73
+Dejan Kulusevski              72
+Bottom 3 players:
+         Player  Possession_Dis
+Aaron Cresswell               0
+ Aaron Ramsdale               0
+  Alex McCarthy               0
+
+=== Rec ===
+Top 3 players:
+         Player  Rec
+Virgil van Dijk 2063
+ Joško Gvardiol 2062
+ William Saliba 2013
+Bottom 3 players:
+        Player  Rec
+  Reiss Nelson    1
+   Jordan Ayew    9
+Carlos Alcaraz   12
+
+=== PrgR.1 ===
+Top 3 players:
+       Player  PrgR.1
+Mohamed Salah     425
+ Bryan Mbeumo     300
+ Kaoru Mitoma     277
+Bottom 3 players:
+        Player  PrgR.1
+Aaron Ramsdale       0
+ Alex McCarthy       0
+   Alex Palmer       0
+
+=== Fls ===
+Top 3 players:
+         Player  Fls
+Antoine Semenyo   65
+     João Gomes   65
+     Liam Delap   65
+Bottom 3 players:
+         Player  Fls
+Albert Grønbaek    0
+  Alex McCarthy    0
+        Alisson    0
+
+=== Fld ===
+Top 3 players:
+         Player  Fld
+Bruno Guimarães   99
+  Matheus Cunha   69
+ James Maddison   64
+Bottom 3 players:
+         Player  Fld
+Alphonse Areola    0
+  Andrés García    0
+ Antonín Kinský    0
+
+=== Off ===
+Top 3 players:
+               Player  Off
+Dominic Calvert-Lewin   27
+          Jamie Vardy   25
+           Chris Wood   24
+Bottom 3 players:
+            Player  Off
+   Aaron Cresswell    0
+    Aaron Ramsdale    0
+Abdukodir Khusanov    0
+
+=== Crs ===
+Top 3 players:
+         Player  Crs
+    Pedro Porro  191
+Bruno Fernandes  172
+   Bryan Mbeumo  171
+Bottom 3 players:
+        Player  Crs
+Aaron Ramsdale    0
+ Alex McCarthy    0
+   Alex Palmer    0
+
+=== Recov ===
+Top 3 players:
+         Player  Recov
+ Moisés Caicedo    197
+Bruno Fernandes    192
+  Ryan Christie    182
+Bottom 3 players:
+        Player  Recov
+  Reiss Nelson      0
+    Danny Ward      1
+Fraser Forster      1
+
+=== Won ===
+Top 3 players:
+         Player  Won
+       Dan Burn  127
+Virgil van Dijk  110
+ Nathan Collins  103
+Bottom 3 players:
+       Player  Won
+Andrés García    0
+       Antony    0
+Billy Gilmour    0
+
+=== Lost ===
+Top 3 players:
+              Player  Lost
+          Chris Wood   117
+Jørgen Strand Larsen    96
+Jean-Philippe Mateta    95
+Bottom 3 players:
+         Player  Lost
+ Aaron Ramsdale     0
+Albert Grønbaek     0
+  Alex McCarthy     0
